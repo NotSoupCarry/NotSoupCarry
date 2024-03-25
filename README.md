@@ -31,7 +31,7 @@
 # About me
 <p>
   <img align="right" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
-      <h3>Big Nerd 🤓</h3>
+      <h4>Big Nerd 🤓</h4>
 
     
   🎮 &emsp; Passionate about gaming, coding, and hitting the gym! <br/><br/>
@@ -47,7 +47,7 @@
 </p>
 
 
-## Use To Code
+## Technology's I use
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
