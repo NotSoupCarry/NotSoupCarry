@@ -1,12 +1,12 @@
 <a href="https://komarev.com/ghpvc/?username=SoupKKK">
-  <img align="right" src="https://komarev.com/ghpvc/?username=SoupKKK&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=ConzaG&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>SoupK</b>
+                <b>ConzaG</b>
         </samp>
 </h3>
 
