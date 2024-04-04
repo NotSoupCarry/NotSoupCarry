@@ -34,9 +34,8 @@
       <h4>Big Nerd 🤓</h4>
 
     
-  🎮 &emsp; Passionate about gaming, coding, and hitting the gym! <br/><br/>
+  🎮 &emsp; Passionate about gaming, coding, japan culture and hitting the gym! <br/><br/>
   ✨ &emsp; Always exploring new technologies and leveling up my skills <br/><br/>
-  // 💪 &emsp; Pumping iron while debugging code is my kind of workout!<br/><br/>
   📧 &emsp; Drop me a line anytime at giuseppeforce36@gmail.com<br/>
   <br/>
    <br/>
