@@ -22,11 +22,12 @@
  
 
 
-<p align="center"> 
+/* <p align="center"> 
 <a href="https://www.linkedin.com/in/giuseppeconza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
 </p>
+*/
 
 # About me
 <p>
