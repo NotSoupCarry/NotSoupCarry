@@ -37,7 +37,7 @@
     
   🎮 &emsp; Passionate about gaming, coding, japan culture and hitting the gym! <br/><br/>
   ✨ &emsp; Always exploring new technologies and leveling up my skills <br/><br/>
-  📧 &emsp; Drop me a line anytime at giuseppeforce36@gmail.com<br/>
+  📧 &emsp; Drop me a line anytime at conzagiuseppee@gmail.com <br/>
   <br/>
    <br/>
     <br/>
