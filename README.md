@@ -36,7 +36,7 @@
   <h3 align="center">Born to hate javascript, forced to use it</h3>
   
   <p align="center">
-    🎮 &emsp; Passionate about gaming, coding, Japan culture, and hitting the gym! <br/><br/>
+    🎮 &emsp; Passionate about gaming, coding, Japan culture, quality life and nature! <br/><br/>
     ✨ &emsp; Always exploring new technologies and leveling up my skills <br/><br/>
     📧 &emsp; Drop me a line anytime at <a href="mailto:conzagiuseppee@gmail.com">conzagiuseppee@gmail.com</a>
   </p>
