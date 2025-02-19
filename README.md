@@ -43,8 +43,9 @@
   <p align="center">
     &emsp; <br/><br/>
     &emsp; I love OOP languages and I have lots of experience with them, have worked on various projects, and collaborated as a landed developer for multiple software houses.</a> <br>
-    Always strive to be better and to learn. <br>
-    Passionate about gaming, coding, Japan culture, quality life and nature.
+    Always strive to be better and to learn in every aspect of my life. <br>
+    Passionate about gaming, coding, Japan culture, quality life and nature. <br> <br>
+    I love ducks 🦆
   </p>
 
 
