@@ -35,9 +35,9 @@
 
 
 <h2 align="center"> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=I+love+ducks+🦆;Quack+Quack!;Ducks+are+awesome!" alt="Typing SVG" />
-
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=I+love+ducks+🦆;Quack+Quack!;Ducks+are+awesome!" alt="Typing SVG" />
 </h2>
+
 <p align="center" style="color:blue;">
   <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
       
@@ -49,11 +49,6 @@
     Always strive to be better and to learn in every aspect of my life. <br>
     Passionate about gaming, coding, Japan culture, quality life and nature. 
     <br> 
-    <br>
-    <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=I+love+ducks+🦆;Quack+Quack!;Ducks+are+awesome!" alt="Typing SVG" />
-    </p>
-
   </p>
 
 
