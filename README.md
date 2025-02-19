@@ -32,11 +32,14 @@
 # About me
 <p align="center" style="color:blue;">
   <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
-      <h4>Hello</h4>
-        🎮 &emsp; Passionate about gaming, coding, japan culture and hitting the gym! <br/><br/>
-        ✨ &emsp; Always exploring new technologies and leveling up my skills <br/><br/>
-        📧 &emsp; Drop me a line anytime at conzagiuseppee@gmail.com 
-        <br/>
+      
+  <h4 align="center">Hello</h4>
+  
+  <p align="center">
+    🎮 &emsp; Passionate about gaming, coding, Japan culture, and hitting the gym! <br/><br/>
+    ✨ &emsp; Always exploring new technologies and leveling up my skills <br/><br/>
+    📧 &emsp; Drop me a line anytime at <a href="mailto:conzagiuseppee@gmail.com">conzagiuseppee@gmail.com</a>
+  </p>
         
   <br/>
    <br/>
