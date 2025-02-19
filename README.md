@@ -41,8 +41,10 @@
   <h3 align="center"></h3>
   
   <p align="center">
-    &emsp; Passionate about gaming, coding, Japan culture, quality life and nature <br/><br/>
-    &emsp;  I have experience with OOP languages, have worked on various projects, and collaborated as a landed developer for multiple software houses.</a>
+    &emsp; <br/><br/>
+    &emsp; I love OOP languages and I have lots of experience with them, have worked on various projects, and collaborated as a landed developer for multiple software houses.</a>
+    Always strive to be better and to learn.
+    Passionate about gaming, coding, Japan culture, quality life and nature.
   </p>
 
 
