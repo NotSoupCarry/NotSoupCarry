@@ -26,9 +26,7 @@
 <a href="https://www.linkedin.com/in/giuseppeconza/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
-</p>
 
-<p align="center">
   <a href="mailto:conzagiuseppee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
   </a>
