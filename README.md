@@ -42,7 +42,7 @@
   
   <p align="center">
     &emsp; Passionate about gaming, coding, Japan culture, quality life and nature <br/><br/>
-    &emsp; Drop me a line anytime at <a href="mailto:conzagiuseppee@gmail.com">conzagiuseppee@gmail.com</a>
+    &emsp;  I have experience with OOP languages, have worked on various projects, and collaborated as a landed developer for multiple software houses.</a>
   </p>
 
 
