@@ -35,8 +35,9 @@
 
 
 <h2 align="center"> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0&color=FFFFFF&center=true&vCenter=true&width=435&lines=I+love+ducks+🦆;Quack+Quack!;Ducks+are+awesome!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+love+ducks+🦆;I+love+ducks+🦆+Quack+Quack!;I+love+ducks+🦆+Ducks+are+awesome!" alt="Typing SVG" />
 </h2>
+
 
 <p align="center" style="color:blue;">
   <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
