@@ -28,6 +28,12 @@
  </a>
 </p>
 
+<p align="center">
+  <a href="conzagiuseppee@gmail.com<">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHBhdGggZD0iTTMgNS42djEyLjhIMjEuNFY1LjZ6Ii8+PHBhdGggZD0iTTMgNS42bDkuNCA4LjIgOS4zLTguMiIvPjwvc3ZnPg==" alt="email" width="40"/>
+  </a>
+</p>
+
 
 <h2 align="center"> <i>Born to hate javascript, forced to use it</i> </h2>
 <p align="center" style="color:blue;">
