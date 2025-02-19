@@ -15,7 +15,6 @@
     <br>
     「 I am a full stack web application developer from <b>Italy</b> 」
     <br>
-    <br>
   </samp>
 </p>
 
