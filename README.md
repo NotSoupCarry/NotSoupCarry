@@ -30,7 +30,7 @@
 
 
 # About me
-<p>
+<p align="center">
   <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
       <h4>Hello</h4>
 
