@@ -35,7 +35,7 @@
 
 
 <h2 align="center"> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=I+love+ducks+🦆;Quack+Quack!;Ducks+are+awesome!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0&color=FFFFFF&center=true&vCenter=true&width=435&lines=I+love+ducks+🦆;Quack+Quack!;Ducks+are+awesome!" alt="Typing SVG" />
 </h2>
 
 <p align="center" style="color:blue;">
