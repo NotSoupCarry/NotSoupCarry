@@ -48,7 +48,7 @@
     <br> 
     <br>
     <p align="center">
-        <span class="rainbow-text">I love ducks 🦆</span>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A7C6&center=true&vCenter=true&width=435&lines=I+love+ducks+🦆;Quack+Quack!;Ducks+are+awesome!" alt="Typing SVG" />
     </p>
 
   </p>
@@ -92,21 +92,3 @@
 
 <br/>
 
-<style>
-  @keyframes rainbow {
-    0% { color: red; }
-    14% { color: orange; }
-    28% { color: yellow; }
-    42% { color: green; }
-    57% { color: blue; }
-    71% { color: indigo; }
-    85% { color: violet; }
-    100% { color: red; }
-  }
-
-  .rainbow-text {
-    font-size: 24px;
-    font-weight: bold;
-    animation: rainbow 2s linear infinite;
-  }
-</style>
