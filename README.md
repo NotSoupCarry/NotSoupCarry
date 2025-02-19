@@ -22,12 +22,12 @@
  
 
 
- <p align="center"> 
-<a href="https://www.linkedin.com/in/giuseppeconza/" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
- </a>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/giuseppeconza/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+  </a>
 
-  <a href="mailto:conzagiuseppee@gmail.com">
+  <a href="mailto:conzagiuseppee@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
   </a>
 </p>
