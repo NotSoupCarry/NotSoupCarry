@@ -21,17 +21,17 @@
 
  
 
-<!--
+
  <p align="center"> 
 <a href="https://www.linkedin.com/in/giuseppeconza/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
 </p>
--->
+
 
 # About me
 <p>
-  <img align="right" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
+  <img align="center" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
       <h4>Big Nerd 🤓</h4>
 
     
