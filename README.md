@@ -29,10 +29,11 @@
 </p>
 
 <p align="center">
-  <a href="conzagiuseppee@gmail.com<">
-    ![![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+  <a href="mailto:conzagiuseppee@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
   </a>
 </p>
+
 
 
 <h2 align="center"> <i>Born to hate javascript, forced to use it</i> </h2>
