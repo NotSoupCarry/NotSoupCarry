@@ -31,8 +31,8 @@
 
 # About me
 <p>
-  <img align="center" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
-      <h4>Big Nerd 🤓</h4>
+  <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
+      <h4>Hello</h4>
 
     
   🎮 &emsp; Passionate about gaming, coding, japan culture and hitting the gym! <br/><br/>
