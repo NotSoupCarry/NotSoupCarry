@@ -29,7 +29,7 @@
 </p>
 
 
-# About me
+<h2 align="center"> About me </h2>
 <p align="center" style="color:blue;">
   <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
       
