@@ -33,7 +33,7 @@
 <p align="center" style="color:blue;">
   <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
       
-  <h4 align="center">Hello</h4>
+  <h4 align="center">Born to hate javascript, forced to use it</h4>
   
   <p align="center">
     🎮 &emsp; Passionate about gaming, coding, Japan culture, and hitting the gym! <br/><br/>
