@@ -29,11 +29,11 @@
 </p>
 
 
-<h2 align="center"> About me </h2>
+<h2 align="center"> <i>Born to hate javascript, forced to use it</i> </h2>
 <p align="center" style="color:blue;">
   <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
       
-  <h3 align="center">Born to hate javascript, forced to use it</h3>
+  <h3 align="center"></h3>
   
   <p align="center">
     🎮 &emsp; Passionate about gaming, coding, Japan culture, quality life and nature! <br/><br/>
