@@ -47,29 +47,9 @@
     Passionate about gaming, coding, Japan culture, quality life and nature. 
     <br> 
     <br>
-    I love ducks 🦆
     <p align="center">
-  <span class="rainbow-text">I love ducks 🦆</span>
-</p>
-
-<style>
-  @keyframes rainbow {
-    0% { color: red; }
-    14% { color: orange; }
-    28% { color: yellow; }
-    42% { color: green; }
-    57% { color: blue; }
-    71% { color: indigo; }
-    85% { color: violet; }
-    100% { color: red; }
-  }
-
-  .rainbow-text {
-    font-size: 24px;
-    font-weight: bold;
-    animation: rainbow 2s linear infinite;
-  }
-</style>
+        <span class="rainbow-text">I love ducks 🦆</span>
+    </p>
 
   </p>
 
@@ -112,3 +92,21 @@
 
 <br/>
 
+<style>
+  @keyframes rainbow {
+    0% { color: red; }
+    14% { color: orange; }
+    28% { color: yellow; }
+    42% { color: green; }
+    57% { color: blue; }
+    71% { color: indigo; }
+    85% { color: violet; }
+    100% { color: red; }
+  }
+
+  .rainbow-text {
+    font-size: 24px;
+    font-weight: bold;
+    animation: rainbow 2s linear infinite;
+  }
+</style>
