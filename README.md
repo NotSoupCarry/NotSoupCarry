@@ -44,8 +44,33 @@
     &emsp; <br/><br/>
     &emsp; I love OOP languages and I have lots of experience with them, have worked on various projects, and collaborated as a landed developer for multiple software houses.</a> <br>
     Always strive to be better and to learn in every aspect of my life. <br>
-    Passionate about gaming, coding, Japan culture, quality life and nature. <br> <br>
+    Passionate about gaming, coding, Japan culture, quality life and nature. 
+    <br> 
+    <br>
     I love ducks 🦆
+    <p align="center">
+  <span class="rainbow-text">I love ducks 🦆</span>
+</p>
+
+<style>
+  @keyframes rainbow {
+    0% { color: red; }
+    14% { color: orange; }
+    28% { color: yellow; }
+    42% { color: green; }
+    57% { color: blue; }
+    71% { color: indigo; }
+    85% { color: violet; }
+    100% { color: red; }
+  }
+
+  .rainbow-text {
+    font-size: 24px;
+    font-weight: bold;
+    animation: rainbow 2s linear infinite;
+  }
+</style>
+
   </p>
 
 
