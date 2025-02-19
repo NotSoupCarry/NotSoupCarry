@@ -36,20 +36,9 @@
   <h3 align="center"></h3>
   
   <p align="center">
-    🎮 &emsp; Passionate about gaming, coding, Japan culture, quality life and nature! <br/><br/>
-    ✨ &emsp; Always exploring new technologies and leveling up my skills <br/><br/>
-    📧 &emsp; Drop me a line anytime at <a href="mailto:conzagiuseppee@gmail.com">conzagiuseppee@gmail.com</a>
+    &emsp; Passionate about gaming, coding, Japan culture, quality life and nature <br/><br/>
+    &emsp; Drop me a line anytime at <a href="mailto:conzagiuseppee@gmail.com">conzagiuseppee@gmail.com</a>
   </p>
-        
-  <br/>
-   <br/>
-    <br/>
-     <br/>
-      <br/>
-        <br/>
-          <br/>
-            <br/>
-              <br/>
 
 
 </p>
