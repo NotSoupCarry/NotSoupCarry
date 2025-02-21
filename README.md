@@ -40,7 +40,7 @@
 
 
 <p align="center" style="color:blue;">
-  <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
+  <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif](https://c8.alamy.com/compit/2j6p31d/uno-schizzo-della-calcolatrice-uno-strumento-di-contabilita-o-di-contabilita-scolastica-un-semplice-disegno-disegnato-a-mano-isolato-su-bianco-vettore-bianco-e-nero-illustrati-2j6p31d.jpg" alt="meow" />
       
   <h3 align="center"></h3>
   
