@@ -18,7 +18,7 @@
   </samp>
 </p>
 
- 
+
 
 
 <p align="center"> 
@@ -40,10 +40,10 @@
 
 
 <p align="center" style="color:blue;">
-  <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif](https://c8.alamy.com/compit/2j6p31d/uno-schizzo-della-calcolatrice-uno-strumento-di-contabilita-o-di-contabilita-scolastica-un-semplice-disegno-disegnato-a-mano-isolato-su-bianco-vettore-bianco-e-nero-illustrati-2j6p31d.jpg" alt="meow" />
+  <img align="middle" width="350" src="https://gifdb.com/images/high/subaru-duck-pixel-art-2a9c651u08lduabp.gif" alt="meow" />
       
   <h3 align="center"></h3>
-  
+
   <p align="center">
     &emsp; <br/><br/>
     &emsp; I love OOP languages and I have lots of experience with them, have worked on various projects, and collaborated as a landed developer for multiple software houses.</a> <br> <br>
@@ -90,4 +90,3 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 <br/>
-
