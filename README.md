@@ -22,9 +22,6 @@
 
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/giuseppeconza/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
 </p>
 <p align="center">
   <a href="mailto:conzagiuseppee@gmail.com" target="_blank">
