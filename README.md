@@ -3,15 +3,21 @@
 </a>  <br>
 
 
-<h3 align="center"> 
-    <b>NotSoupCarry</b> <br> <br>
-    <p>born in 2004-02-06 • OOP developer from Naples </p>
-    <img src="https://i.pinimg.com/736x/19/50/a0/1950a062d888e886b2f945b1a8f9debb.jpg" width="600"/>
-</h3> 
+<h1 align="center"> 
+    <b>NotSoupCarry</b>
+</h1>
 
-<h2 align="center">  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=things+I+love:;thinkpad+t480;arch+linux;coding" alt="Typing SVG" /> 
-</h2> 
+<p align="center">
+    Born in 2004 • OOP developer from Naples 
+</p>
+
+<p align="center">
+    <img src="https://i.pinimg.com/736x/19/50/a0/1950a062d888e886b2f945b1a8f9debb.jpg" width="600"/>
+</p>
+
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=things+I+love:;thinkpad+t480;arch+linux;coding" alt="Typing SVG" /> 
+</h2>
 
 <div align="center">
 
