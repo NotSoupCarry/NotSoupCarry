@@ -21,15 +21,18 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="0">
 <tr border="0" cellspacing="0" cellpadding="0">
 <td width="50%" align="center" border="0" cellspacing="0" cellpadding="0">
+<br>
 
 <img src="https://githubstats-brown.vercel.app/api?username=NotSoupCarry&show_icons=true&theme=tokyonight&cache_seconds=7200&v=2&hide_title=true" alt="GitHub Stats" />
 
-<br><br>
+<br>
 
 <img src="https://githubstats-brown.vercel.app/api/top-langs/?username=NotSoupCarry&layout=compact&theme=tokyonight&cache_seconds=7200&v=2" alt="Top Languages" />
+<br>
+<br>
 
 </td>
 
@@ -47,8 +50,6 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
 
 </td>
 </tr>
-
-<br>
 </table>
 
 </div>
