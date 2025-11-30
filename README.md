@@ -65,5 +65,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSoupCarry)](https://github.com/NotSoupCarry/github-readme-stats)
+[![GitHub Stats](https://githubstats-brown.vercel.app/api?username=NotSoupCarry&show_icons=true&theme=tokyonight)](https://github.com/NotSoupCarry)
+
+[![Top Languages](https://githubstats-brown.vercel.app/api/top-langs/?username=NotSoupCarry&layout=compact&theme=tokyonight)](https://github.com/NotSoupCarry)
 <br/>
