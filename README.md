@@ -29,6 +29,7 @@
 <img src="https://githubstats-brown.vercel.app/api?username=NotSoupCarry&show_icons=true&theme=tokyonight&cache_seconds=7200&v=2&hide_title=true" alt="GitHub Stats" />
 
 <br>
+<br>
 
 <img src="https://githubstats-brown.vercel.app/api/top-langs/?username=NotSoupCarry&layout=compact&theme=tokyonight&cache_seconds=7200&v=2" alt="Top Languages" />
 <br>
