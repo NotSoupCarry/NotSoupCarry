@@ -5,6 +5,7 @@
 
 <h3 align="center"> 
     <b>NotSoupCarry</b> <br> <br>
+    <p>born in 2004-02-06 • OOP developer from Naples </p>
     <img src="https://i.pinimg.com/736x/19/50/a0/1950a062d888e886b2f945b1a8f9debb.jpg" width="600"/>
 </h3> 
 
