@@ -15,8 +15,8 @@
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" align="center">
+<tr border="0" cellspacing="0" cellpadding="0">
+<td width="50%" align="center" border="0" cellspacing="0" cellpadding="0">
 
 <img src="https://githubstats-brown.vercel.app/api?username=NotSoupCarry&show_icons=true&theme=tokyonight&cache_seconds=7200&v=2" alt="GitHub Stats" />
 
@@ -26,9 +26,9 @@
 
 </td>
 
-<td width="50%" align="left">
+<td width="50%" align="left" border="0" cellspacing="0" cellpadding="0">
 
-<h2>About Me</h2>
+<h3>About Me</h3>
 
 Started my journey at 11 coding C projects on my grandad's old computer and breaking it... never stopped ever since.
 
