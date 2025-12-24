@@ -59,9 +59,6 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
   <a href="mailto:conzagiuseppee@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"> 
   </a> <br>
-  <a href="https://www.linkedin.com/in/giuseppeconza/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
-  </a> 
 </p>
 
 
