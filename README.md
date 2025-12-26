@@ -87,8 +87,6 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
 <br>
 <br>
 <br>
-<br>
-## My Discord
 <div align="center">
   <a href="https://discord.com/users/931511745284038696">
     <img src="https://lanyard.cnrad.dev/api/515066809443942401?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20sleeping..." alt="Discord Status" />
