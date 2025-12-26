@@ -84,6 +84,10 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 
+<br>
+<br>
+<br>
+<br>
 ## My Discord
 <div align="center">
   <a href="https://discord.com/users/931511745284038696">
