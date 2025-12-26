@@ -89,6 +89,6 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
 <br>
 <div align="center">
   <a href="https://discord.com/users/931511745284038696">
-    <img src="https://lanyard.cnrad.dev/api/515066809443942401?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20sleeping..." alt="Discord Status" />
+    <img src="https://lanyard.cnrad.dev/api/515066809443942401?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=it%20matters%20where%20you%20are" alt="Discord Status" />
   </a>
 </div>
