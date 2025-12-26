@@ -82,3 +82,11 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+
+## My Discord
+<div align="center">
+  <a href="https://discord.com/users/931511745284038696">
+    <img src="https://lanyard.cnrad.dev/api/515066809443942401?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20sleeping..." alt="Discord Status" />
+  </a>
+</div>
