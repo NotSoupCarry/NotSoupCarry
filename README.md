@@ -94,4 +94,5 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
 
 
 ![My GitHub Game](game.gif)
+
 </div>
