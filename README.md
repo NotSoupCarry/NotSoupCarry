@@ -92,7 +92,8 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
     <img src="https://lanyard.cnrad.dev/api/515066809443942401?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=it%20matters%20where%20you%20are" alt="Discord Status" />
   </a>
 
-
+<br>
+<br>
 ![My GitHub Game](https://github.com/NotSoupCarry/space-shooter/blob/main/game.gif)
 
 </div>
