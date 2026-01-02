@@ -94,6 +94,6 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
 
 <br>
 <br>
-![My GitHub Game](https://github.com/NotSoupCarry/space-shooter/blob/main/game.gif)
 
+<img src="https://github.com/NotSoupCarry/space-shooter/raw/main/game.gif" alt="Space Shooter Game" />
 </div>
