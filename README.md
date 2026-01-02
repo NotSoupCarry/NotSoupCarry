@@ -93,5 +93,5 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
   </a>
 
 
-    <iframe src="https://czl9707.github.io/gh-space-shooter/" width="800" height="600"></iframe>
+![My GitHub Game](https://notsoupcarry.github.io/space-shooter)
 </div>
