@@ -93,6 +93,6 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
   </a>
 
 
-![My GitHub Game](game.gif)
+![My GitHub Game](https://github.com/NotSoupCarry/space-shooter/blob/main/game.gif)
 
 </div>
