@@ -93,5 +93,5 @@ Passionate about tech, gaming, Japan culture, quality life and nature.
   </a>
 
 
-![My GitHub Game](https://notsoupcarry.github.io/space-shooter)
+![My GitHub Game](game.gif)
 </div>
