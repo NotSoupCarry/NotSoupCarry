@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-    Born in 2004 • OOP developer from Naples 
+    Born in 2004 • developer from Naples 
 </p>
 
 <p align="center">
