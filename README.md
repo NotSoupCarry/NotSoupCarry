@@ -11,6 +11,7 @@
     Born in 2004 • developer from Naples 
 </p>
 
+
 <p align="center">
     <img src="https://i.pinimg.com/736x/19/50/a0/1950a062d888e886b2f945b1a8f9debb.jpg" width="600"/>
 </p>
