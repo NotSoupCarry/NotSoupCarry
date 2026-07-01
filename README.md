@@ -4,7 +4,7 @@
 
 
 <h1 align="center"> 
-    <b>NotSoupCarry</b>
+    <b>Soup</b>
 </h1>
 
 <p align="center">
